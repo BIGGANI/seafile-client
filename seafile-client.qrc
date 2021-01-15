@@ -36,6 +36,22 @@
     <file>images/mac/seafile_auto_sync_disabled@2x.png</file>
     <file>images/mac/seafile_auto_sync_disabled_white.png</file>
     <file>images/mac/seafile_auto_sync_disabled_white@2x.png</file>
+    <file>images/mac/svg/seafile_auto_sync_disabled_white.svg</file>
+    <file>images/mac/svg/seafile_auto_sync_disabled.svg</file>
+    <file>images/mac/svg/seafile_transfer_1_white.svg</file>
+    <file>images/mac/svg/seafile_transfer_1.svg</file>
+    <file>images/mac/svg/seafile_transfer_2_white.svg</file>
+    <file>images/mac/svg/seafile_transfer_2.svg</file>
+    <file>images/mac/svg/seafile_warning_white.svg</file>
+    <file>images/mac/svg/seafile_warning.svg</file>
+    <file>images/mac/svg/daemon_down_white.svg</file>
+    <file>images/mac/svg/daemon_down.svg</file>
+    <file>images/mac/svg/daemon_up_white.svg</file>
+    <file>images/mac/svg/daemon_up.svg</file>
+    <file>images/mac/svg/notification_white.svg</file>
+    <file>images/mac/svg/notification.svg</file>
+    <file>images/mac/svg/seafile_auto_sync_disabled_white.svg</file>
+    <file>images/mac/svg/seafile_auto_sync_disabled.svg</file>
     <file>images/mac/seafile_transfer_1.png</file>
     <file>images/mac/seafile_transfer_1_white.png</file>
     <file>images/mac/seafile_transfer_2.png</file>
